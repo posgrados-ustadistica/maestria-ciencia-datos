@@ -431,7 +431,7 @@ Para consultas sobre tu trabajo de grado, anteproyecto o cualquier inquietud sob
 
 ---
 
-**Última actualización:** 2026  
+**Última actualización:** 31 de julio del 2026  
 **Documento de referencia oficial:** Coordinación de Maestría en Ciencia de Datos - Universidad Santo Tomás
 
 ---
