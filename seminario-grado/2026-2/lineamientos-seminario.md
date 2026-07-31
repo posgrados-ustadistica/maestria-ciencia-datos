@@ -28,7 +28,7 @@ El **Trabajo de Grado** es un requisito fundamental para obtener el título de *
 ### ⚠️ Aspectos Importantes
 - ✅ El trabajo de grado es **obligatorio en grupos de tres** estudiantes
 - ✅ Cada grupo trabaja en **un solo proyecto** y presenta **un único informe final**
-- ✅ Cada estudiante debe estar asignado a un **docente tutor**
+- ✅ Cada grupo debe estar asignado a un **docente tutor**
 - ✅ Debes tener promedio acumulado **≥ 3.5** para ser estudiante activo
 
 ---
@@ -368,7 +368,7 @@ Los siguientes documentos están disponibles para su referencia y son fundamenta
 ## ❓ Preguntas Frecuentes
 
 **P: ¿Puedo hacer mi trabajo de grado solo?**  
-R: No. El trabajo de grado debe desarrollarse **obligatoriamente en parejas o grupos de tres** estudiantes.
+R: No. El trabajo de grado debe desarrollarse **obligatoriamente en grupos de tres** estudiantes.
 
 ---
 
@@ -382,8 +382,8 @@ R: Se recomienda definir la modalidad en el Seminario de Investigación II. Los 
 
 ---
 
-**P: ¿Qué pasa si no termino mi trabajo para noviembre?**  
-R: Los estudiantes de la cohorte del 2025-2 deben terminar su trabajo antes de **noviembre de 2026** para resolver dudas con su docente director y estar listo para la sustentación de **enero de 2027**. De lo contrario, deberán esperar a las **próximas sustentaciones de la siguiente cohorte**, lo que **retrasaría el proceso un semestre académico más**.
+**P: ¿Qué pasa si no termino mi trabajo para Junio?**  
+R: Los estudiantes de la cohorte del 2026-1 deben terminar su trabajo antes de **junio de 2026** para resolver dudas con su docente director y estar listo para la sustentación en el periodo intersemestral. De lo contrario, deberán esperar a las **próximas sustentaciones de la siguiente cohorte**, lo que **retrasaría el proceso un semestre académico más**.
 
 ---
 
