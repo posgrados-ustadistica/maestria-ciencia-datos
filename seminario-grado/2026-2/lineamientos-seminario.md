@@ -49,7 +49,8 @@ Los estudiantes deben cumplir con los siguientes requisitos:
   https://cilce.usta.edu.co/index.php?option=com_sppagebuilder&view=page&id=54
   ```
 
-  
+  **Nota importante:**
+Resulta sumamente estratégico articular el tema de tu trabajo de grado con las electivas de profundización que selecciones. De esta manera, podrás aprovechar los entregables de dichas asignaturas para trabajar directamente con los datos de tu proyecto de grado, logrando un avance más eficiente y enfocado a lo largo de tu formación.
 
 - ✔️ Estar **a paz y salvo con la Universidad**
 
@@ -403,7 +404,7 @@ R: Debes demostrar comprensión de inglés académico a nivel **B1** (según Mar
 ---
 
 **P: ¿Cuándo y dónde se realizarán las sustentaciones?**  
-R: Para la cohorte que ingreso 2025-2. Las sustentaciones se realizarán en dos jornadas, la primera en **09 de Dicimbre del 2026**,**Entre el 15  y el 19 enero de 2027**. La fecha exacta y lugar se comunicarán con aterioridad.
+R: Para la cohorte que ingreso 2026-1. Las sustentaciones se en el periodo intersemestreal 2027 entre junio y julio del 2027. al finalizar el curso de Trabajo de Grado
 
 ---
 
