@@ -26,7 +26,7 @@ El **Trabajo de Grado** es un requisito fundamental para obtener el título de *
 | Trabajo de Grado | Desarrollar proyecto y preparar sustentación |
 
 ### ⚠️ Aspectos Importantes
-- ✅ El trabajo de grado es **obligatorio en parejas o grupos de tres** estudiantes
+- ✅ El trabajo de grado es **obligatorio en grupos de tres** estudiantes
 - ✅ Cada grupo trabaja en **un solo proyecto** y presenta **un único informe final**
 - ✅ Cada estudiante debe estar asignado a un **docente tutor**
 - ✅ Debes tener promedio acumulado **≥ 3.5** para ser estudiante activo
