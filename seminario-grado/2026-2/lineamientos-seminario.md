@@ -26,7 +26,7 @@ El **Trabajo de Grado** es un requisito fundamental para obtener el título de *
 | Trabajo de Grado | Desarrollar proyecto y preparar sustentación |
 
 ### ⚠️ Aspectos Importantes
-- ✅ El trabajo de grado es **obligatorio en grupos de tres** estudiantes
+- ✅ El trabajo de grado es **obligatorio en grupos de dos o tres** estudiantes
 - ✅ Cada grupo trabaja en **un solo proyecto** y presenta **un único informe final**
 - ✅ Cada grupo debe estar asignado a un **docente tutor**
 - ✅ Debes tener promedio acumulado **≥ 3.5** para ser estudiante activo
@@ -94,7 +94,7 @@ Elaboración y publicación de un artículo académico en una revista indexada (
 - Presentar **confirmación de aceptación y publicación** por parte de la revista
 - Realizar **sustentación pública** ante jurado calificador
 - Con la aceptación de la publicación en revista indexada, se **garantiza nota mínima de 3.5**
-- En la sustentación, el estudiante puede defender una nota más alta ante jurados. 
+- En la sustentación, los estudiantes puede defender una nota más alta ante jurados. 
 - **20%:** Nota curso Trabajo de grado. **80%:** Jurados (sustentación).
 
 **Nota:** Para la revista Comunicaciones en Estadística debe ingresar a la página de la revista, registrarse y hacer el envío desde allí :
@@ -369,7 +369,7 @@ Los siguientes documentos están disponibles para su referencia y son fundamenta
 ## ❓ Preguntas Frecuentes
 
 **P: ¿Puedo hacer mi trabajo de grado solo?**  
-R: No. El trabajo de grado debe desarrollarse **obligatoriamente en grupos de tres** estudiantes.
+R: No. El trabajo de grado debe desarrollarse **obligatoriamente en grupos de dos o tres** estudiantes.
 
 ---
 
