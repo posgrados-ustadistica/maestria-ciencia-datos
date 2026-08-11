@@ -60,7 +60,7 @@ Desarrollo de un proyecto autónomo en ciencia de datos bajo la dirección de un
 - **Sustentación pública** ante jurados evaluadores
 - Poderaciones: **20%:** Nota curso Trabajo de grado. **80%:** Jurados (sustentación y entrega del documento).
 
-**Nota:** Consulta el listado de docentes tutores y temas disponibles en el archivo adjunto. [[z1.TEMAS TESIS_MAESTRÍA-Perfiles(2026).xlsx]([z1.TEMAS TESIS_MAESTRÍA-Perfiles(2026).xlsx](https://usantotomaseduco-my.sharepoint.com/:x:/g/personal/maestria_estadisticaaplicada_usta_edu_co/IQC_ikNbmi0BRZjyyk3sdRQ5Abfxz3Tz6cpRffClDf_pur4?e=C6zobI))]
+**Nota:** Consulta el listado de docentes tutores y temas disponibles en el archivo adjunto. [[z1.TEMAS TESIS_MAESTRÍA-Perfiles(2026).xlsx](https://usantotomaseduco-my.sharepoint.com/:x:/g/personal/maestria_estadisticaaplicada_usta_edu_co/IQC_ikNbmi0BRZjyyk3sdRQ5Abfxz3Tz6cpRffClDf_pur4?e=gpJhW0)
 
 ---
 
@@ -327,7 +327,7 @@ Los siguientes documentos están disponibles para su referencia y son fundamenta
 
 ### **Información de Tutores e Investigación**
 - 👨‍🏫 **Listado de Docentes Tutores y Temas de Investigación** (para Modalidad 1)  
-  *Archivo: [[z1.TEMAS TESIS_MAESTRÍA-Perfiles(2026).xlsx](z1.TEMAS TESIS_MAESTRÍA-Perfiles(2026).xlsx)]*  
+  *Archivo: [[z1.TEMAS TESIS_MAESTRÍA-Perfiles(2026).xlsx](https://usantotomaseduco-my.sharepoint.com/:x:/g/personal/maestria_estadisticaaplicada_usta_edu_co/IQC_ikNbmi0BRZjyyk3sdRQ5Abfxz3Tz6cpRffClDf_pur4?e=gpJhW0)*  
   Consulta los docentes disponibles, sus áreas de especialidad y temas propuestos
 
 ### **Regulaciones y Normativa**
