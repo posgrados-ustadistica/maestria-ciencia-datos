@@ -62,6 +62,8 @@ Desarrollo de un proyecto autónomo en ciencia de datos bajo la dirección de un
 
 **Nota:** Consulta el listado de docentes tutores y temas disponibles en el archivo adjunto. [[z1.TEMAS TESIS_MAESTRÍA-Perfiles(2026).xlsx](https://usantotomaseduco-my.sharepoint.com/:x:/g/personal/maestria_estadisticaaplicada_usta_edu_co/IQC_ikNbmi0BRZjyyk3sdRQ5Abfxz3Tz6cpRffClDf_pur4?e=gpJhW0)
 
+<https://usantotomaseduco-my.sharepoint.com/:x:/g/personal/maestria_estadisticaaplicada_usta_edu_co/IQC_ikNbmi0BRZjyyk3sdRQ5Abfxz3Tz6cpRffClDf_pur4?e=fpgZky>
+
 ---
 
 ### **Modalidad 2: Publicación de Artículo en Revista Indexada**
