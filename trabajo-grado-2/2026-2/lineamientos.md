@@ -16,6 +16,63 @@
 
 ---
 
+# Acutalización Calendario y Procedimiento — Trabajo de Grado (Información del 20 de Octubre del 2026)
+Maestría en Ciencia de Datos · Universidad Santo Tomás
+Este documento reúne las fechas clave y el procedimiento para la cohorte de Trabajo de Grado. Léelo con atención y ten presente cada plazo.
+
+### 1. Confirmación de información (título, tema, director e integrantes)- Arpobación Comité de Investigación USTA
+Cada estudiante recibirá un correo electrónico para confirmar:
+
+* El título del trabajo de grado
+* El tema
+* El director (docente tutor)
+* Los integrantes del grupo
+* El resumen
+
+👉 Si alguno de estos aspectos ha cambiado, debes informarlo antes del miércoles 28 de octubre.
+
+**Importante:** Los temas de trabajo de grado son aprobados por la Unidad de Investigación, que verifica que el docente propuesto tenga idoneidad investigativa en la temática dentro de la Santo Tomás. Una vez que el tema pasa al Comité de Investigación, no se podrá cambiar ni el título, ni el resumen, ni el tema, ni el director, ni los estudiantes.
+
+📬 Por favor, estar atentos al correo para confirmar la información.
+
+### 2. Primera Jornada de Sustentaciones
+📅 **Fechas: martes 08 al viernes 11 de diciembre de 2026**
+
+* Entrega de la última versión al docente director para revisión	09 de noviembre
+* Plazo del director para dar aval para la sustentación	23 de noviembre
+* Programación de la jornada (con los avales recibidos a más tardar el 23 de noviembre)	— 
+* Sustentaciones	08 al 11 de diciembre de 2026
+Con los avales que se reciban a más tardar el 23 de noviembre se hará la programación de la primera jornada de sustentaciones.
+
+### 3. Segunda Jornada de Sustentaciones
+📅 **Fechas: martes 26 y miércoles 27 de enero de 2027**
+
+* Entrega de la última versión al docente director para revisión	01 de diciembre
+* Retroalimentación y observaciones del director (antes de vacaciones colectivas)	antes del 15 de diciembre
+* Vacaciones colectivas (los directores no estarán disponibles)	desde el 15 de diciembre - 15 de enero del 2027
+* Plazo del director para dar aval para la sustentación	20 de enero
+* Programación de las sustentaciones (con la información recibida hasta el 20 de enero)	—
+* Sustentaciones	26 y 27 de enero de 2027
+
+
+4. ¿Cómo se procede para la sustentación?
+Como ya han venido trabajando con sus docentes directores y les han venido mostrando sus resultados, el procedimiento es el siguiente:
+
+El director da el aval a la Coordinación (puede ser por correo electrónico). Con ese aval, la Coordinación los incluye en la jornada de sustentaciones correspondiente. Es decir: una vez el director avala, la Coordinación los programa en la jornada de sustentaciones.
+
+
+⚠️ Recordatorios
+✅ El trabajo de grado es obligatorio en parejas o grupos de tres estudiantes; cada grupo presenta un único informe final.
+
+✅ Cada estudiante debe estar asignado a un docente tutor.
+
+✅ La nota mínima de aprobación es 3.5.
+
+✅ Estar atentos al correo para confirmar la información antes del 28 de octubre. Una vez aprobado por el Comité de Investigación, no se podrán cambiar título, resumen, tema, director ni integrantes.
+
+
+
+
 ## 🎯 Visión General
 
 El **Trabajo de Grado** es un requisito fundamental para obtener el título de **Magíster en Ciencia de Datos**. Este proceso se desarrolla en dos etapas académicas:
@@ -96,7 +153,7 @@ Desarrollo de un proyecto aplicado en colaboración con una **empresa real**, do
 - Contar con un **tutor empresarial** (profesional de la organización)
 - Contar con un **tutor académico** (docente de la maestría)
 - Obtener **aprobación de la coordinación** de la maestría
-- El cronograma debe finalizar **a más tardar en la segunda semana de noviembre de 2026** para la cohorte que ingreso en 2025-2
+- El cronograma debe finalizar **a más tardar en la primera semana de noviembre de 2026** para la cohorte que ingreso en 2025-2
 - **Sustentación** ante jurado evaluador: **20%:** Nota curso Trabajo de grado, **30%:** Tutor empresarial (aplica solo para la **Modalidad 3: Proyecto Capstone**) y  **50%:** Jurados.
 
 ---
@@ -112,9 +169,9 @@ OCTUBRE 2026: Presentar resultados avanzados
    ↓
 NOVIEMBRE 2026: Redactar trabajo final completo
    ↓
-DICIEMBRE 2026: PRIMERA JORNADA DE SUSTENTACIONES (Martes 01 al Viernes 04 de diciembre del 2026) - grados Marzo 2027
+DICIEMBRE 2026: PRIMERA JORNADA DE SUSTENTACIONES (Martes 08 al Viernes 11 de diciembre del 2026) - grados aproximadamente en Marzo 2027
    ↓
-ENERO 2027: SEGUNDA SUSTENTACIÓN (Segunda semana)(Martes 19 y miércoles 20 de enero) - Segunda fecha de grados del año aproximadamente
+ENERO 2027: SEGUNDA SUSTENTACIÓN (Segunda semana)(Martes 26 y miércoles 27 de enero) - Segunda fecha de grados del año aproximadamente
  
 ```
 
@@ -127,7 +184,7 @@ ENERO 2027: SEGUNDA SUSTENTACIÓN (Segunda semana)(Martes 19 y miércoles 20 de 
 | **Primera Etapa** | Parte descriptiva de datos | Inicio del semestre | Asegurar descripción completa de datos |
 | **Etapa Intermedia** | Avance metodológico + resultados preliminares | Tras revisión de materias | Verificar metodología y resultados iniciales |
 | **Etapa Final** | Trabajo de grado completo | Noviembre 2026 | Resolver dudas finales y preparar sustentación |
-| **Sustentación** | Presentación pública | Martes 01 al Viernes 04 de diciembre del 2026 o Martes 19 y miércoles 20 de enero 2027 | Defensa ante jurados evaluadores |
+| **Sustentación** | Presentación pública |    | Defensa ante jurados evaluadores |
 
 ---
 
@@ -360,7 +417,7 @@ R: Se recomienda definir la modalidad en el Seminario de Investigación II. Los 
 ---
 
 **P: ¿Qué pasa si no termino mi trabajo para noviembre?**  
-R: Los estudiantes de la cohorte del 2025-2 deben terminar su trabajo antes de **noviembre de 2026** para resolver dudas con su docente director y estar listo para la sustentación de **enero de 2027**. De lo contrario, deberán esperar a las **próximas sustentaciones de la siguiente cohorte**, lo que **retrasaría el proceso un semestre académico más**.
+R: Los estudiantes de la cohorte del 2025-2 deben terminar su trabajo antes de **09 noviembre de 2026** para resolver dudas con su docente director y estar listo para la sustentación de **enero de 2027**. De lo contrario, deberán esperar a las **próximas sustentaciones de la siguiente cohorte**, lo que **retrasaría el proceso un semestre académico más**.
 
 ---
 
@@ -380,7 +437,7 @@ R: Debes demostrar comprensión de inglés académico a nivel **B1** (según Mar
 ---
 
 **P: ¿Cuándo y dónde se realizarán las sustentaciones?**  
-R: Para la cohorte que ingreso 2025-2. Las sustentaciones se realizarán en dos jornadas, la primera en **Martes 01 al 04 de Diciembre 2026**,**Entre el 19  y el 20 enero de 2027**. La fecha exacta y lugar se comunicarán con aterioridad.
+R: Para la cohorte que ingreso 2025-2. Las sustentaciones se realizarán en dos jornadas, la primera en **Martes 08 al 11 de Diciembre 2026**,**Entre el 26  y el 27 enero de 2027**. La fecha exacta y lugar se comunicarán con aterioridad.
 
 ---
 
