@@ -112,9 +112,9 @@ OCTUBRE 2026: Presentar resultados avanzados
    ↓
 NOVIEMBRE 2026: Redactar trabajo final completo
    ↓
-DICIEMBRE 2026: PRIMERA JORNADA DE SUSTENTACIONES (9 de diciembre) - grados Marzo 2027
+DICIEMBRE 2026: PRIMERA JORNADA DE SUSTENTACIONES (Martes 01 al Viernes 04 de diciembre del 2026) - grados Marzo 2027
    ↓
-ENERO 2027: SEGUNDA SUSTENTACIÓN (Segunda semana)(Aprx 15 o 19 de enero) - grados Julio 2027
+ENERO 2027: SEGUNDA SUSTENTACIÓN (Segunda semana)(Martes 19 y miércoles 20 de enero) - Segunda fecha de grados del año aproximadamente
  
 ```
 
@@ -127,7 +127,7 @@ ENERO 2027: SEGUNDA SUSTENTACIÓN (Segunda semana)(Aprx 15 o 19 de enero) - grad
 | **Primera Etapa** | Parte descriptiva de datos | Inicio del semestre | Asegurar descripción completa de datos |
 | **Etapa Intermedia** | Avance metodológico + resultados preliminares | Tras revisión de materias | Verificar metodología y resultados iniciales |
 | **Etapa Final** | Trabajo de grado completo | Noviembre 2026 | Resolver dudas finales y preparar sustentación |
-| **Sustentación** | Presentación pública | 9 de Diciembre o 15-19 de Enero 2027 | Defensa ante jurados evaluadores |
+| **Sustentación** | Presentación pública | Martes 01 al Viernes 04 de diciembre del 2026 o Martes 19 y miércoles 20 de enero 2027 | Defensa ante jurados evaluadores |
 
 ---
 
@@ -380,7 +380,7 @@ R: Debes demostrar comprensión de inglés académico a nivel **B1** (según Mar
 ---
 
 **P: ¿Cuándo y dónde se realizarán las sustentaciones?**  
-R: Para la cohorte que ingreso 2025-2. Las sustentaciones se realizarán en dos jornadas, la primera en **09 de Dicimbre del 2026**,**Entre el 15  y el 19 enero de 2027**. La fecha exacta y lugar se comunicarán con aterioridad.
+R: Para la cohorte que ingreso 2025-2. Las sustentaciones se realizarán en dos jornadas, la primera en **Martes 01 al 04 de Diciembre 2026**,**Entre el 19  y el 20 enero de 2027**. La fecha exacta y lugar se comunicarán con aterioridad.
 
 ---
 
